@@ -12,3 +12,5 @@ sec_ops_db/
 # Python junk
 __pycache__/
 *.pyc
+ai_env/
+ai_env~/
