@@ -1,0 +1,10 @@
+streamlit
+ollama
+chromadb
+sentence-transformers
+langchain
+langchain-community
+huggingface_hub
+pandas
+requests
+datasets
