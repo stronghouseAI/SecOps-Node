@@ -117,7 +117,7 @@ with st.sidebar:
         status_msg = ":: DEFENSE SYSTEMS ONLINE ::"
     else:
         st.session_state.mode = "RED_TEAM"
-        active_model = "whiterabbitneo"
+        active_model = "dolphin-mistral"
         status_msg = ":: OFFENSIVE SUBSYSTEMS ENGAGED ::"
 
     st.markdown("---")

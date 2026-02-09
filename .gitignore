@@ -1,16 +1,5 @@
-# Ignore the Virtual Environment (Too big, machine specific)
 ai_env/
-
-# Ignore the Zip file (Upload this to Releases instead)
-*.zip
-
-# Ignore the Database (Optional: Keep repo light, let users run ingest.py)
-# If you want to share the DB in the repo, remove the line below.
-# If the DB is over 100MB, you MUST ignore it.
 sec_ops_db/
-
-# Python junk
+*.zip
 __pycache__/
-*.pyc
-ai_env/
-ai_env~/
+*.DS_Store
